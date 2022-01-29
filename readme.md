@@ -19,4 +19,6 @@ Scraped online reviews from Amazon for the 3 consoles on the market and 3 best-s
 
 Based on additional data, made detailed segmentation analysis, chose the segments most worth targeting and created customer personas based on those segments’ characteristics.
 
+
+__________________________________
 In this repository you can find our data, code, Tableau dashboards, project report and a presentation.
